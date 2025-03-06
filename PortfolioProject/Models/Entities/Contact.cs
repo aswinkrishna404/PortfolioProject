@@ -1,9 +1,8 @@
 ﻿
 
-
  using System.ComponentModel.DataAnnotations;
 
-namespace PortfolioProject.Models
+namespace PortfolioProject.Models.Entities
 {
 
     public class Contact
